@@ -1,0 +1,9 @@
+rhodes_path='/Users/chronosafe/.rvm/gems/ruby-2.1.5@rho522/gems/rhodes-5.2.2'
+app_version='1.0'
+app_name='test_client'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='2.3.3'
+ext_path=/Users/chronosafe/.rvm/gems/ruby-2.1.5@rho522/gems/rhodes-5.2.2/lib/commonAPI/coreapi;/Users/chronosafe/.rvm/gems/ruby-2.1.5@rho522/gems/rhodes-5.2.2/lib/extensions/json;/Users/chronosafe/.rvm/gems/ruby-2.1.5@rho522/gems/rhoconnect-client-5.2.2/lib/../ext/rhoconnect-client;
